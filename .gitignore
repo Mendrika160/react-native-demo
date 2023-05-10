@@ -1,0 +1,5 @@
+back-app/node_modules
+back-app/bin
+back-app/config
+back-app/.env
+react-native/node_modules
